@@ -35,7 +35,7 @@ Go to the app folder
 
 Launch the API using uvicorn
 
-<code>uvicorn app:main --reload</code>
+<code>uvicorn main:app --reload</code>
 
 Go to the API documentation
 
