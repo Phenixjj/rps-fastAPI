@@ -6,7 +6,7 @@ Create docker image in the root folder
 
 <code>docker build -t mdtimage .</code>
 
-Build docker service with using docker compose
+Build docker service using docker compose
 
 <code>docker-compose build</code>
 
