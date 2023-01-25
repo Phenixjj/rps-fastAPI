@@ -40,3 +40,6 @@ Launch the API using uvicorn
 Go to the API documentation
 
 http://127.0.0.1:8000/docs
+
+## Run test
+<code>python -m pytest</code>
